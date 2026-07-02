@@ -43,6 +43,9 @@
 <p align="center">
   <img src="YOUR_GIF_LINK_HERE" width="250"/>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bazusan016/Bazusan016/main/anime.gif" width="250"/>
+</p>
 
 ---
 
